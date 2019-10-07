@@ -1,0 +1,22 @@
+state={
+	id=885
+	name="STATE_885"
+
+	history={
+		owner = BAM
+		buildings = {
+			infrastructure = 7
+
+		}
+		add_core_of = CZE
+        add_core_of = BAM
+
+	}
+
+	provinces={
+		445 494 3462 9414 
+	}
+	manpower=851000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

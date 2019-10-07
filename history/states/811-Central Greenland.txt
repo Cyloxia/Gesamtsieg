@@ -1,0 +1,22 @@
+state={
+	id=811
+	name="STATE_811"
+
+	impassable = yes
+
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 0
+
+		}
+
+	}
+
+	provinces={
+		13058 
+	}
+	manpower=53
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}
