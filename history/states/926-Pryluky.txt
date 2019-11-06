@@ -3,12 +3,12 @@ state={
 	name="STATE_926"
 
 	history={
-		owner = SOV
+		owner = RUK
 		buildings = {
-			infrastructure = 5
-
+			infrastructure = 6
+			industrial_complex = 2
 		}
-		add_core_of = SOV
+		add_core_of = RUK
 		add_core_of = UKR
 
 	}
@@ -16,7 +16,7 @@ state={
 	provinces={
 		582 3480 3584 6458 6508 6532 9437 9543 11425 11489 11557 
 	}
-	manpower=700221
+	manpower=1300221
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=large_town
 }

@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = EST
+		owner = ROS
 		victory_points = {
 			3152 5 
 		}
@@ -24,13 +24,13 @@ state={
 
 		}
 		add_core_of = EST
-
+		add_core_of = ROS
 	}
 
 	provinces={
 		83 308 496 567 3074 3152 3174 6381 9079 11127 11291 11426 
 	}
-	manpower=610350
+	manpower=810350
 	buildings_max_level_factor=1.000
-	state_category=town
+	state_category=large_town
 }

@@ -2,11 +2,14 @@
 state={
 	id=371
 	name="STATE_371"
+	resources={
+		oil=56.000
+	}
 
 	history={
 		owner = USA
 		buildings = {
-			infrastructure = 5
+			infrastructure = 6
 			industrial_complex = 2
 			air_base = 5
 
@@ -15,9 +18,9 @@ state={
 	}
 
 	provinces={
-		1559 4522 7555 7599 
+		1528 1559 1643 4507 4522 7555 7599 12313 12401
 	}
-	manpower=801132
+	manpower=1301132
 	buildings_max_level_factor=1.000
 	state_category=town
 }

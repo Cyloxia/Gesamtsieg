@@ -4,7 +4,7 @@ state={
 	name="STATE_109"
 
 	history={
-		owner = YUG
+		owner = CRO
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 3
@@ -13,7 +13,6 @@ state={
 		victory_points = {
 			11581 3 
 		}
-		add_core_of = YUG
 		add_core_of = CRO
 
 	}
@@ -21,7 +20,7 @@ state={
 	provinces={
 		624 3627 6647 9595 9611 11581 11594 
 	}
-	manpower=2063100
+	manpower=2463100
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=city
 }

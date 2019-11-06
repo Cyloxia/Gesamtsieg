@@ -2,20 +2,20 @@
 state={
 	id=241
 	name="STATE_241" # Gomel
-	manpower = 943422
+	manpower = 1343422
 	
-	state_category = rural
+	state_category = town
 
 	history={
-		owner = SOV
+		owner = ROS
 		victory_points = {
 			9288 10 
 		}
 		buildings = {
-			infrastructure = 5
+			infrastructure = 6
 			air_base = 3
 		}
-		add_core_of = SOV
+		add_core_of = ROS
 		add_core_of = BLR
 	}
 

@@ -6,23 +6,24 @@ state={
 	}
 
 	history={
-		owner = HOL
+		owner = RNE
 		add_core_of = HOL
+		add_core_of = RNE
 		victory_points = {
-			391 40 
+			391 30 
 		}
 		victory_points = {
 			3211 10 
 		}
 		victory_points = {
-			9498 20 
+			9498 25 
 		}
 		buildings = {
 			infrastructure = 8
-			arms_factory = 4
-			industrial_complex = 3
-			dockyard = 3
-			air_base = 5
+			arms_factory = 5
+			industrial_complex = 4
+			dockyard = 1
+			air_base = 7
 			3314 = {
 				naval_base = 5
 
@@ -39,7 +40,7 @@ state={
 	provinces={
 		68 391 3211 3314 9498 
 	}
-	manpower=4123000
+	manpower=5623000
 	buildings_max_level_factor=1.000
 	state_category=metropolis
 }

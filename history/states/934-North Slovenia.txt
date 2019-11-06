@@ -3,12 +3,12 @@ state={
 	name="STATE_934"
 
 	history={
-		owner = YUG
+		owner = GER
 		buildings = {
 			infrastructure = 6
 
 		}
-		add_core_of = YUG
+		add_core_of = GER
 		add_core_of = SLV
 
 	}
@@ -16,7 +16,7 @@ state={
 	provinces={
 		596 3631 3654 9596 
 	}
-	manpower=421000
+	manpower=621000
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 }

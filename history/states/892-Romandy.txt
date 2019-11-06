@@ -3,7 +3,7 @@ state={
 	name="STATE_892"
 
 	history={
-		owner = SWI
+		owner = BUR
 		buildings = {
 			infrastructure = 6
 			arms_factory = 1
@@ -11,13 +11,13 @@ state={
 
 		}
 		add_core_of = SWI
-
+		add_core_of = BUR
 	}
 
 	provinces={
 		3612 6666 6683 9622 11590 13124 
 	}
-	manpower=800554
+	manpower=1350554
 	buildings_max_level_factor=1.000
 	state_category=town
 }

@@ -4,7 +4,7 @@ state={
 	name="STATE_18"
 
 	history={
-		owner = FRA
+		owner = BUR
 		victory_points = {
 			9490 5 
 		}
@@ -12,19 +12,19 @@ state={
 			13011 5 
 		}
 		buildings = {
-			infrastructure = 7
-			industrial_complex = 1
-			air_base = 10
+			infrastructure = 6
+			industrial_complex = 2
+			air_base = 8
 
 		}
 		add_core_of = FRA
-
+		add_core_of = BUR
 	}
 
 	provinces={
 		551 3533 6531 9490 11732 13011 
 	}
-	manpower=1010300
+	manpower=1510300
 	buildings_max_level_factor=1.000
 	state_category=city
 }

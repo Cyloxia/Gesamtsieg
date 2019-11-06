@@ -4,9 +4,9 @@ state={
 	name="STATE_94"
 
 	history={
-		owner = POL
+		owner = ROS
 		buildings = {
-			infrastructure = 3
+			infrastructure = 4
 
 		}
 		victory_points = {
@@ -17,13 +17,13 @@ state={
 		}
 		add_core_of = POL
 		add_core_of = BLR
-
+		add_core_of = ROS
 	}
 
 	provinces={
 		535 560 3256 3281 3392 3496 3556 6280 6306 6415 6546 6579 9520 11285 11503 11528 
 	}
-	manpower=1232200
+	manpower=1632200
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 }

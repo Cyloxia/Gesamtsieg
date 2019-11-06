@@ -3,12 +3,11 @@ state={
 	name="STATE_937"
 
 	history={
-		owner = YUG
+		owner = CRO
 		buildings = {
 			infrastructure = 6
-
+			arms_factory = 1
 		}
-		add_core_of = YUG
 		add_core_of = CRO
 
 	}
@@ -18,5 +17,5 @@ state={
 	}
 	manpower=41100
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 }

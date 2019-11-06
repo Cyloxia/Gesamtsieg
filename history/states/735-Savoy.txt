@@ -4,14 +4,15 @@ state={
 	name="STATE_735"
 
 	history={
-		owner = ITA
+		owner = BUR
 		add_core_of = ITA
 		add_core_of = FRA
+		add_core_of = BUR
 		victory_points = {
 			778 1 
 		}
 		buildings = {
-			infrastructure = 4
+			infrastructure = 5
 
 		}
 
@@ -20,7 +21,7 @@ state={
 	provinces={
 		778 6609 9603 9745 11573 
 	}
-	manpower=301300
+	manpower=651300
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 }

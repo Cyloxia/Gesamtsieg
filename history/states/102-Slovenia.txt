@@ -4,15 +4,15 @@ state={
 	name="STATE_102"
 
 	history={
-		owner = YUG
+		owner = ITA
 		buildings = {
 			infrastructure = 6
 
 		}
 		victory_points = {
-			9627 3 
+			9627 5 
 		}
-		add_core_of = YUG
+		add_core_of = ITA
 		add_core_of = SLV
 
 	}
@@ -20,7 +20,7 @@ state={
 	provinces={
 		6650 9627 
 	}
-	manpower=631200
+	manpower=831200
 	buildings_max_level_factor=1.000
 	state_category=large_town
 }

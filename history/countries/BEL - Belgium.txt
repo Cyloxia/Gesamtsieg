@@ -1,6 +1,4 @@
-﻿capital = 6
-
-oob = "BEL_1936"
+﻿capital = 6S
 
 set_research_slots = 3
 set_stability = 0.8

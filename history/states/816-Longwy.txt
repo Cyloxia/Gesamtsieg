@@ -3,22 +3,22 @@ state={
 	name="STATE_816"
 
 	history={
-		owner = FRA
+		owner = BUR
 		victory_points = {
 			3560 1 
 		}
 		buildings = {
-			infrastructure = 7
+			infrastructure = 6
 
 		}
 		add_core_of = FRA
-
+		add_core_of = BUR
 	}
 
 	provinces={
 		3560 5291 
 	}
-	manpower=140100
+	manpower=315100
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=rural
 }

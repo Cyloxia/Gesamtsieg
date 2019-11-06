@@ -3,7 +3,7 @@ state={
 	name="STATE_933"
 
 	history={
-		owner = POL
+		owner = ROS
 		victory_points = {
 			3393 3
 		}
@@ -14,13 +14,13 @@ state={
 		}
 		add_core_of = POL
 		add_core_of = BLR
-
+		add_core_of = ROS
 	}
 
 	provinces={
 		318 3393 13206 
 	}
-	manpower=410200
+	manpower=710200
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=rural
 }

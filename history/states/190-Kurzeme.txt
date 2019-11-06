@@ -7,24 +7,24 @@ state={
 		victory_points = {
 			9262 3 
 		}
-		owner = LAT
+		owner = ROS
 		buildings = {
 			infrastructure = 5
 			9262 = {
-				naval_base = 1
+				naval_base = 2
 
 			}
-			dockyard = 1
+			dockyard = 4
 
 		}
 		add_core_of = LAT
-
+		add_core_of = ROS
 	}
 
 	provinces={
 		3194 3296 3319 3525 6222 6322 6342 9262 11246 
 	}
-	manpower=379500
+	manpower=579500
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=large_town
 }

@@ -3,11 +3,11 @@ state={
 	id=17
 	name="STATE_17"
 	resources={
-		steel=28.000
+		steel=38.000
 	}
 
 	history={
-		owner = FRA
+		owner = BUR
 		victory_points = {
 			9642 5 
 		}
@@ -15,19 +15,19 @@ state={
 			11516 5 
 		}
 		buildings = {
-			infrastructure = 7
-			industrial_complex = 1
-			air_base = 5
+			infrastructure = 6
+			industrial_complex = 2
+			air_base = 3
 
 		}
 		add_core_of = FRA
-
+		add_core_of = BUR
 	}
 
 	provinces={
 		698 3646 3666 6668 6698 9642 9658 11488 11642 
 	}
-	manpower=1113400
+	manpower=1713400
 	buildings_max_level_factor=1.000
 	state_category=city
 }
